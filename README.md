@@ -29,10 +29,10 @@
   <a href="https://github.com/Dpolar96/R-Analysis-of-a-AirFrance-Case">
   </a>
 
-<h3 align="center">Airbnb analysis using NLP and visualization using Tableau</h3>
+<h3 align="center">Marketing Strategy for Air France </h3>
 
   <p align="center">
-    Analysis of an Airbnb database from Mongo using R for NLP and Tableau to project these insights
+    Analysis of a Air France data using R to determine which could be the best marketing strategy
     <br />
     <a href="https://github.com/Dpolar96/R-Analysis-of-a-AirFrance-Case"><strong>Explore the docs »</strong></a>
     <br />
@@ -73,7 +73,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is a group project, in which we first connected to a cluster of Mongo DB to access a sample of Airbnb data including the listing description, location, property type, review scores, amount of listings, # of bedrooms and bathrooms, and Superhost status. Initially R was used to connect to Mongo DB, running a script for NLP analysis and other precise analysis that couldn't be done on Tableau such as average price overall. At the same time, the initial csv extracted from the database was used to carry a visualization analysis on Tableau to visualize insights not considered on R. Finally compiling both analysis in a report included [here](https://github.com/Dpolar96/Group-Text-Analytics-project-with-R/blob/Group-Project/Report/Combined%20assessment%20report%20(1).pdf).
+This is a group project, in which using the data provided was run through R to analyze and determine which was the best marketing strategy based on this data. Finally this analysis on was compiled on a markdown [report](https://github.com/Dpolar96/R-Analysis-of-a-AirFrance-Case/blob/main/Markdown%20Report/Team%2011_Markdown.html) and a PowerPoint [presentation](https://github.com/Dpolar96/R-Analysis-of-a-AirFrance-Case/blob/main/PowerPoint/Team11_AirFrance.pptx).
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -130,11 +130,10 @@ Project Link: [https://github.com/Dpolar96/R-Analysis-of-a-AirFrance-Case](https
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 I thank and appreciate the help of my group members during the ellaboration of this project:
-* [Diana Aycachi](https://www.linkedin.com/in/diana-aycachi-78882480/)
-* [Allesandro Casella](https://www.linkedin.com/in/alessandro-casella-97953b197/)
-* [Kevin Farjallah](https://www.linkedin.com/in/kevin-farjallah/)
-* [Vivian Soo](https://www.linkedin.com/in/vivian-soo-8446641b7/)
-* [Madhuri Thackeray](https://www.linkedin.com/in/madhuri-thackeray-05168b14a/)
+* [Veera Thota](https://www.linkedin.com/in/veera-thota/)
+* [Timothy Naman](https://www.linkedin.com/in/timothy-naman/)
+* [Tri Dung Dinh]()
+* [Takahito Komori](https://www.linkedin.com/in/takahito-komori/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
